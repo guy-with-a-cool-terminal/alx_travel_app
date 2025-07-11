@@ -41,7 +41,7 @@ A Django-based travel application backend project with REST API support, Swagger
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/alx_travel_app.git
+   git clone https://github.com/guy-with-a-cool-terminal/alx_travel_app.git
    cd alx_travel_app
 ````
 
